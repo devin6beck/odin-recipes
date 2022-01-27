@@ -1,0 +1,18 @@
+* {
+  background-color: RGB(205,205,205);
+}
+h1 {
+  background-color: orange;
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 200px;
+}
+
+h2,
+h3,
+h4 {
+  font-size: 24px;
+}
